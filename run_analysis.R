@@ -1,6 +1,3 @@
-#y_data sisältää aktivitettien numeron datan järjestyksessä
-#subject_train sisältää koehenkilön numeron
-#X-data sisältää datan, jossa laskettu features mukaiset tunnarit
 
 #********************READ IN DATA *** START ************************************
 
